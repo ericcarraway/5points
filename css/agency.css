@@ -568,6 +568,8 @@ section {
     .staff-member img {
         margin: 0 auto;
         border: 7px solid #fff;
+        height: 150px;
+        width: 150px;
     }
 
     .staff-member h4 {
