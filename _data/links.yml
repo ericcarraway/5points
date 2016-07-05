@@ -1,0 +1,14 @@
+- url: /
+  title: Home
+
+- url: /staff
+  title: Staff
+
+- url: /schedule
+  title: Schedule
+
+- url: /members
+  title: Members
+
+- url: /donate
+  title: Donate

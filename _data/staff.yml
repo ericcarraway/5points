@@ -1,0 +1,55 @@
+- title_case: Dave Giddens
+  kebab_case: dave-giddens
+  role: Program Coordinator
+
+- title_case: Kris Hartman
+  kebab_case: kris-hartman
+  role: Battery Coordinator, Arranger/Designer
+
+- title_case: Darryl Pemberton
+  kebab_case: darryl-pemberton
+  role: Visual Coordinator, Designer
+
+- title_case: Matt Ferry
+  kebab_case: matt-ferry
+  role: Front Ensemble Coordinator, Orchestrator
+
+- title_case: Jordan Stern
+  kebab_case: jordan-stern
+  role: Front Ensemble Designer, Consultant
+
+- title_case: Conrad Isenhour
+  kebab_case: conrad-isenhour
+  role: Visual Caption Head
+
+- title_case: Arnold Haffner
+  kebab_case: arnold-haffner
+  role: Bass Drum Instructor
+
+- title_case: Rick Astorga
+  kebab_case: rick-astorga
+  role: Tenor Instructor
+
+- title_case: Brannon Baker
+  kebab_case: brannon-baker
+  role: Snare Instructor
+
+- title_case: Jeremy Chapman
+  kebab_case: jeremy-chapman
+  role: Front Ensemble Instructor
+
+- title_case: Jenne Brauchle
+  kebab_case: jenne-brauchle
+  role: Cymbal Instructor
+
+# - title_case: Jon Merritt
+#   kebab_case: jon-merritt
+#   role: Battery Consultant
+
+- title_case: Steven McCardle
+  kebab_case: steven-mccardle
+  role: Tenor Instructor
+
+- title_case: Eric Carraway
+  kebab_case: eric-carraway
+  role: Web Developer, Consultant

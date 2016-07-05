@@ -1,0 +1,52 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="{{site.baseurl}}/public/js/jquery.fitvids.js"></script>
+<script>
+  $(document).ready(function(){
+    $("article").fitVids();
+  });
+</script>
+
+<script type='text/javascript'>
+$(document).ready(function () {
+
+var staff = [
+  'dave-giddens',
+  'kris-hartman',
+  'darryl-pemberton',
+  'matt-ferry',
+  'jordan-stern',
+  'conrad-isenhour',
+  'arnold-haffner',
+  'rick-astorga',
+  'brannon-baker',
+  'jeremy-chapman',
+  'jenne-brauchle',
+  'jon-merritt',
+  'steven-mccardle',
+  'eric-carraway'
+];
+
+var selector;
+
+for (var i = 0; i < staff.length; i++) {
+  selector = '.' + staff[i] + '-small';
+  $(selector).hover(
+    function () {
+      // mouseenter
+      src = $( this ).attr('src');
+      src = src.replace('/bw/', '/color/');
+      $( this ).attr('src', src);
+    }, function () {
+      // mouseleave
+      src = $( this ).attr('src');
+      src = src.replace('/color/', '/bw/');
+      $( this ).attr('src', src);
+    }
+  );
+}
+
+});
+
+</script>
+
+<!-- #TODO: Minimize script requirements -->
