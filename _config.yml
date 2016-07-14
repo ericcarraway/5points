@@ -1,9 +1,9 @@
-markdown: redcarpet
+markdown: kramdown
 highlighter: null
 permalink: /:title
 
 url: http://fivepointsperc.org/
-baseurl: 
+baseurl:
 
 redcarpet:
   extensions: [strikethrough, tables]
