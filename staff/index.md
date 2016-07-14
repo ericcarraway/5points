@@ -28,12 +28,14 @@ h6 {
 </style>
 <!-- for staff_member in site.data.staff -->
 {% for staff_member in site.data.staff %}
+<div class="col span_3 center staff-nav">
 <a href="../../staff/{{ staff_member.kebab_case }}">
-  <div class="col span_3 center staff-nav">
-    <img class="{{ staff_member.kebab_case }}-small" src="../../public/staff-headshots/bw/{{ staff_member.kebab_case }}.jpg" alt="{{ staff_member.title_case }}">
-    <h6>{{ staff_member.title_case }}</h6>
-  </div>
+<img class="{{ staff_member.kebab_case }}-small"
+     src="../../public/staff-headshots/bw/{{ staff_member.kebab_case }}.jpg"
+     alt="{{ staff_member.title_case }}" />
+<h6>{{ staff_member.title_case }}</h6>
 </a>
+</div>
 {% endfor %}
 <!-- endfor -->
 <div class="col span_12">
