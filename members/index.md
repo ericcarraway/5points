@@ -2,10 +2,17 @@
 layout: page
 title: Members
 ---
+<style>
+h3 {
+    margin-top: 30px;
+}
+p {
+    margin-left: 15px;
+}
+</style>
 ### Calendar
 <a href="calendar/5points-member-calendar-v1.pdf">__Member Calendar__ - Click here to download</a>
 
-<br>
 ### Rehearsal Locations
 Frank Tejeda Middle School  
 2909 Evans Rd  
@@ -19,7 +26,6 @@ Winston Churchill High School
 12049 Blanco Rd  
 San Antonio, TX 78216  
 
-<br>
 ### Contact
 <span id="no-spam"></span>
 
