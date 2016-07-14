@@ -14,15 +14,15 @@ p {
 <a href="calendar/5points-member-calendar-v1.pdf">__Member Calendar__ - Click here to download</a>
 
 ### Rehearsal Locations
-Frank Tejeda Middle School  
+**Frank Tejeda Middle School**  
 2909 Evans Rd  
 San Antonio, TX 78259  
 
-Karen Wagner High School  
+**Karen Wagner High School**  
 3000 N Foster Rd  
 San Antonio, TX 78244  
 
-Winston Churchill High School  
+**Winston Churchill High School**  
 12049 Blanco Rd  
 San Antonio, TX 78216  
 
